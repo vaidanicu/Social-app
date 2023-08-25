@@ -9,3 +9,5 @@
 ![image](https://github.com/vaidanicu/Social-app/assets/64326133/89cd576c-4813-4e5f-990b-88d9c069ff94)
 
 # Developers TODOs (items to improve)
+
+- [ ] database with mongodb
